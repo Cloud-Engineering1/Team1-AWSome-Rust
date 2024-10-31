@@ -1,4 +1,4 @@
-# TECHIT FinalProject
+# Team1 AWSome Rust[Sub]
 * Title       : `Hybrid Cloud & Multi Cloud`
 * Description : `-`
 * Date        : 
